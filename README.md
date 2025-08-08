@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ryu-thon
+- 👋 Hi, I’m ilyas
 - 👀 I’m interested in IA because i'm new to learn computer science
 - 🌱 I’m currently learning python
-- 📫 How to reach me :
-- ig="ilyaxryu"
 - email="ilyasselmamouni4@gmail.com"
 
 <!---
